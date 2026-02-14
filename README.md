@@ -52,6 +52,7 @@ Image-Filter/
 
 - `blur` - Applies a smoothing blur effect
 - `pixelate` - Applies pixelation effect
+- `greyscale` - Applies pixelation effect
 
 ## Notes
 
