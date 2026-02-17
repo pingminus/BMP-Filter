@@ -2,6 +2,14 @@
 
 A C++ application for applying various filters to BMP images.
 
+<div align="left">
+  <img src="sample/landscape.bmp">
+
+</div>
+<div align="right">
+  <img src="sample/greyscale_image.bmp">
+</div>
+
 ## Features
 
 - **Blur Filter**: Applies a 3x3 box blur to smooth the image
