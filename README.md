@@ -2,12 +2,11 @@
 
 A C++ application for applying various filters to BMP images.
 
-<div align="left">
-  <img src="sample/landscape.bmp">
-
+<div align="center">
+  <img src="sample/landscape.bmp" width="900" height="500">
 </div>
-<div align="right">
-  <img src="sample/greyscale_image.bmp">
+<div align="center">
+  <img src="sample/greyscale_image.bmp" width="900" height="500">
 </div>
 
 ## Features
